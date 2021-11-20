@@ -14,10 +14,10 @@ My current company works in the FinTech space and wanted to add more to our comp
 
 ---
 ## Table of Contents
-[Images](Images)
+[Images](Activity/Images)
 
-[Code](Code)
+[Code](Activity/Code)
 
-[References](references)
+[References](Activity/references)
 
-[Data](data)
+[Data](Activity/data)
